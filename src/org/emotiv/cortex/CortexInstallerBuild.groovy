@@ -1,5 +1,6 @@
 package org.emotiv.cortex
 
+@NonCPS
 class CortexInstallerBuild implements Serializable {
     def steps = null
 
